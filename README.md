@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Team of 4 students designing and constructing a switch voltage regulator electronic circuit.
+Collaborated in team of 4 students designing and constructing a switch voltage regulator electronic circuit.
 <br />
 
 
