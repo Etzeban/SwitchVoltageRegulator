@@ -25,7 +25,7 @@ PCB layout in Cadence PCB Editor design <br/>
 <br />
 <br />
 Completed PCB  <br/>
-<img src="https://i.imgur.com/LtvIhvV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dGsQM0B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 NI Elvis Board circuit test setup <br/>
